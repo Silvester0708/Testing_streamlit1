@@ -1,0 +1,4 @@
+1:A:Manok Pansoh, chicken cooked in bamboo, is a traditional delicacy of which Malaysian state?:Sarawak:Sabah:Kedah:Perlis:
+2:A:Which Malaysian state is famous for Layer Cake?:Sarawak:Selangor:Negeri Sembilan:Johor:
+3:B:This fermented shrimp (Cencaluk) delicacy is especially famous in which Malaysian state?:Perak:Melaka:Sarawak:Sabah:img/cencalok.jpg
+4:D:Which Malaysian state is closely associated with Laksa in the image?:Sabah:Penang:Melaka:Sarawak:img/sarawak_laksa.jpg

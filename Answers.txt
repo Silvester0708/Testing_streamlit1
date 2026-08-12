@@ -1,0 +1,5 @@
+Silvester:A,A,A,D:3
+Ali:B,A,B,B:2
+Abu:A,A,B,D:4
+Siti:A,A,D,D:3
+Sarah:A,A,B,D:4
